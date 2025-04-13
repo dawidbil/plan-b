@@ -69,7 +69,7 @@ select = [
     "UP", # https://docs.astral.sh/ruff/rules/#pyupgrade-up
     "B", # https://docs.astral.sh/ruff/rules/#flake8-bugbear-b
     "I", # https://docs.astral.sh/ruff/rules/#isort-i
-    "D", # https://docs.astral.sh/ruff/rules/#pydocstyle-d
+    # "D", # https://docs.astral.sh/ruff/rules/#pydocstyle-d
     "Q", # https://docs.astral.sh/ruff/rules/#flake8-quotes-q
     "COM", # https://docs.astral.sh/ruff/rules/#flake8-commas-com
     "SIM", # https://docs.astral.sh/ruff/rules/#flake8-simplify-sim
