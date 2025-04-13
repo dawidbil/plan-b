@@ -1,0 +1,9 @@
+# Changes here will be overwritten by Copier. Do not edit manually.
+_commit: v0.2.6
+_src_path: gh:jlevy/simple-modern-uv
+package_author_email: dawid.bilinski.99@gmail.com
+package_author_name: Dawid Biliński
+package_description: Generate shorts for social media
+package_github_org: dawidbil
+package_module: plan_b
+package_name: plan-b
